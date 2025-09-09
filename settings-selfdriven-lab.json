@@ -1,0 +1,67 @@
+{
+	"entityos": {
+		"hostname": "api.entityos.cloud",
+		"logon": "",
+		"email": "",
+		"testing": {
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"selfdriven": {
+		"logonSuffix": "-selfdriven",
+		"email": "",
+		"url": "https://levelup-lab.selfdriven.cloud",
+		"userroles":
+		[
+			{
+				"name": "learner",
+				"id": "199"
+			},
+			{
+				"name": "learning-partner",
+				"id": "255"
+			},
+			{
+				"name": "community-facilitator",
+				"id": "256"
+			}
+		],
+		"documents":
+		{
+			"terms": "191379",
+			"signUpEmail": "191380"
+		},
+		"uris":
+		[
+			"signup-lab.selfdriven.cloud"
+		],
+		"communities":
+		{
+			"id": ""
+		}
+	},
+	"protect": {
+		"iv": "",
+		"key": ""
+	},
+	"rules": [
+		{
+			"env": "password-lab",
+			"set": "entityos.password",
+			"default": "k"
+		},
+		{
+			"env": "octoapikey-lab",
+			"set": "octo.apikey",
+			"default": ""
+		},
+		{
+			"env": "octoauthkey-lab",
+			"set": "octo.authkey",
+			"default": ""
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"body": {
+		"method": "hey-octo-protect-data-encrypt",
+		"_context": "selfdriven-community-49ae8af2-3b60-4e55-a324-35b1a1f2ef79-uow-passport-lab",
+		"data": {
+			"encrypt": [
+				{
+					"data": "Hello"
+				},
+				"World"
+			]
+		}
+	},
+	"queryStringParameters": {},
+	"headers": {}
+}

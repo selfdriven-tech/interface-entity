@@ -1,0 +1,23 @@
+{
+	"context": "selfdriven-lab",
+	"body":
+	{
+		"_context": "selfdriven-community-7a4fbf7a-5ff4-416c-a864-af3604719dab-commonlands-lab",
+		"method": "add-community-member",
+		"data":
+		{
+			"communitykey": "cb7c2b2f-238d-4058-82a7-b2543a44cd72",
+			"memberrole": "learner",
+			"memberfirstname": "John 4",
+			"memberlastname": "Smith 4",
+			"membermobile": "0400123014",
+			"memberusername": "0400123014",
+			"memberuserpassword": "1234567a"
+		}
+	},
+	"queryStringParameters": {},
+	"headers":
+	{
+		"x-api-key": "2174af85-2728-4330-94dc-0b8be2b12947|kFbqCip4DAioI28wx5Sobef6qtldbO0r6MV2SCWJ5sywKkuH"
+	}
+}

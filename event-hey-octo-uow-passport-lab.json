@@ -1,0 +1,30 @@
+{
+	"body":
+	{
+		"method": "hey-octo",
+		"_context": "selfdriven-community-49ae8af2-3b60-4e55-a324-35b1a1f2ef79-uow-passport-lab",
+		"data": {
+			"managed": true,
+			"userkey": "a1271c01-3232-...",
+			"conversationkey": "31ed8c4f-c241-....",
+			"task": {
+				"name": "add-project",
+				"data": {
+					"referencemask": "PW??????",
+					"restrictedtoteam": "Y",
+					"type": 68,
+					"subtype": 88,
+					"projectmanager": "44856",
+					"contactperson": "1000761230",
+					"description": "Who (Am I / Are You) Profile.  Base information required to be part of a community.",
+					"sourceprojecttemplate": 169275
+				}
+			}
+		}
+	},
+	"queryStringParameters": {},
+	"headers": {
+		"x-api-key": "...|..."
+	}
+}
+
