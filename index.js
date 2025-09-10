@@ -1,6 +1,6 @@
 /*
-	SELFDRIVEN CORE API;
-	https://slfdrvn.io/apps
+	SELFDRIVEN CORE INTERFACE;
+	https://selfdriven.tech
 
 	“get-learners”
 	”get-learning-partners”
