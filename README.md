@@ -1,1 +1,1 @@
-# Core Interface
+# Entity Interface

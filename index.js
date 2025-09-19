@@ -1,5 +1,5 @@
 /*
-	SELFDRIVEN CORE INTERFACE;
+	SELFDRIVEN ENTITY INTERFACE;
 	https://selfdriven.tech
 
 	“get-learners”

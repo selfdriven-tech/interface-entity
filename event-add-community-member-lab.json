@@ -2,7 +2,7 @@
 	"context": "selfdriven-lab",
 	"body":
 	{
-		"_context": "selfdriven-signup-lab",
+		"_context": "selfdriven-lab",
 		"method": "add-community-member",
 		"data":
 		{
